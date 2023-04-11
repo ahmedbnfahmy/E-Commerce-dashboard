@@ -1,3 +1,6 @@
+# Ecommerce Dashboard Website
+
+
 This is an ecommerce dashboard website built using React, React Context, Tailwind, and Syncfusion. The website provides a dashboard view for ecommerce store owners to track sales, manage tasks, and view analytics.
 
 Table of Contents
